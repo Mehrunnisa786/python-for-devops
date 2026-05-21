@@ -26,7 +26,7 @@ The project demonstrates how Python can be used to automate repetitive DevOps ta
 - API Automation
 - File & System Management
 
-Python is one of the most widely used programming languages in DevOps because of its simplicity, automation capabilities, and extensive ecosystem of libraries. :contentReference[oaicite:0]{index=0}
+Python is one of the most widely used programming languages in DevOps because of its simplicity, automation capabilities, and extensive ecosystem of libraries. 
 
 ---
 
@@ -47,7 +47,7 @@ Python is one of the most widely used programming languages in DevOps because of
 
 # 🐍 Why Python for DevOps?
 
-Python is commonly used in DevOps because it helps automate infrastructure, cloud operations, deployment workflows, monitoring, and repetitive operational tasks. Many DevOps engineers use Python for CI/CD pipelines, Kubernetes automation, AWS operations, and infrastructure tooling. :contentReference[oaicite:1]{index=1}
+Python is commonly used in DevOps because it helps automate infrastructure, cloud operations, deployment workflows, monitoring, and repetitive operational tasks. Many DevOps engineers use Python for CI/CD pipelines, Kubernetes automation, AWS operations, and infrastructure tooling.
 
 ---
 
